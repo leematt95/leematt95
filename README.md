@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Leon Matthew O']
+# 👋 Hi, I'm Leon Matthew O'
  
 Welcome to my GitHub! I'm passionate about data analysis, visualization, and cloud-based solutions. Below are some of the core tools I use in my projects:
  
